@@ -25,12 +25,12 @@
           "name": "Angular"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-java-plain",
+          "name": "Java"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
       ]
     },
@@ -114,6 +114,10 @@
     {
       "class": "",
       "name": "Angular"
+    },
+    {
+      "class": "",
+      "name": "Java Spring Boot"
     }
   ]
 }
